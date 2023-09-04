@@ -1,1 +1,6 @@
-
+google-api-python-client
+pandas 
+psycopg2
+pymongo
+streamlit 
+pillow
